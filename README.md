@@ -1,0 +1,2 @@
+# AoA-dynamic-programming-alignment-score
+dynamic programming algorithm to calculate the maximum alignment score when combining two sequences together.  This project will involve breaking down the problem recursively, developing memoized and iterative pseudocode solutions, and implementing one of your solutions in code.  More details about the project, including the problem description, submission requirements, and code specifications appear in the project PDF:
